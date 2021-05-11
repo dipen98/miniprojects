@@ -3,7 +3,7 @@
 Check out these cool MINI python projects
 
 
-Web Scraping Program
+Web Scraping Program <br>
 Renaming Bulk Files
 Getting Weather Information
 Countdown Timer
