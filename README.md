@@ -4,8 +4,8 @@ Check out these cool MINI python projects
 
 
 Web Scraping Program <br>
-Renaming Bulk Files
-Getting Weather Information
-Countdown Timer
-Password Generator
-QR Code With Python
+Renaming Bulk Files<br>
+Getting Weather Information<br>
+Countdown Timer<br>
+Password Generator<br>
+QR Code With Python<br>
